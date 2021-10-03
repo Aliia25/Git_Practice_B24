@@ -6,4 +6,5 @@ public class Fourth {
 
     // set up fourth class
 
+    // next line
 }
