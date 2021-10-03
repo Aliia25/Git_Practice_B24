@@ -9,4 +9,7 @@ public class Third {
     public void m(int a){
 
     }
+     public void m(String s){
+
+     }
 }
