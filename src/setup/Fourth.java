@@ -9,4 +9,9 @@ public class Fourth {
     // next line
 
     // another lines
+
+    public static void main(String[] args) {
+        System.out.println("5");
+
+    }
 }
