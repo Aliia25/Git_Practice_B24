@@ -6,5 +6,5 @@ public class Car {
 
     // we will have conflict
 
-    // because there is different braches for car
+    // because there is different branches for car
 }
